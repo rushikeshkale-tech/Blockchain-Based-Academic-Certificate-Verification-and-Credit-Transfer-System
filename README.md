@@ -96,28 +96,7 @@ module.exports = {
     apiKey: process.env.ETHERSCAN_API_KEY
   }
 };
-```
-
-## 🙏 Contributing
-
-We welcome contributions to this project! If you'd like to contribute, please follow these steps:
-
-1.  **Fork the repository.**
-2.  **Create a new branch** for your feature or bug fix: `git checkout -b feature/your-feature-name` or `bugfix/fix-description`.
-3.  **Make your changes.**
-4.  **Commit your changes** with a clear and concise message: `git commit -m "feat: Add new feature"`.
-5.  **Push your branch** to your forked repository: `git push origin feature/your-feature-name`.
-6.  **Open a Pull Request** against the `main` branch of this repository, describing your changes in detail.
-
-## 📄 License
-
-This project is licensed under the ISC License. See the `LICENSE` file (if present, otherwise typically within `package.json`) for full details.
-<!--source: package.json-->
-
-
-
-
-
+---
 ---
 
 ## 🎯 Key Objectives
@@ -296,6 +275,17 @@ If you found this project helpful, give it a ⭐ on GitHub!
 ```
 https://github.com/1rushikeshkale/MCAC11BlockchainProject
 ```
+
+## 🙏 Contributing
+
+We welcome contributions to this project! If you'd like to contribute, please follow these steps:
+
+1.  **Fork the repository.**
+2.  **Create a new branch** for your feature or bug fix: `git checkout -b feature/your-feature-name` or `bugfix/fix-description`.
+3.  **Make your changes.**
+4.  **Commit your changes** with a clear and concise message: `git commit -m "feat: Add new feature"`.
+5.  **Push your branch** to your forked repository: `git push origin feature/your-feature-name`.
+6.  **Open a Pull Request** against the `main` branch of this repository, describing your changes in detail.
 
 ---
 
