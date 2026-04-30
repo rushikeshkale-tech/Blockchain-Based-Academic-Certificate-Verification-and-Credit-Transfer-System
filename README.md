@@ -1,3 +1,15 @@
+# Blockchain Based Academic Certificate Verification System
+
+👨‍💻 Author: Rushikesh Kale  
+📌 Personal Learning Project  
+
+## Purpose
+This project explores the use of blockchain technology for secure academic certificate verification and credit transfer between institutions.
+
+GitHub: https://github.com/rushikeshkale-tech  
+linkedin: https://www.linkedin.com/in/rushikeshkale-tech
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Blockchain-Based Academic Certificate Verification & Credit Transfer System *(A Decentralized Academic Credential System using Blockchain)* 
 
 ### 🚀 Project Overview 
@@ -212,23 +224,9 @@ bash npx hardhat run scripts/deploy.js --network localhost
 
 
 
-
-## ❤️ Credits
-
-Developed by: **Rushikesh Kale** ( Master of Computer Application )
-
----
-
-## 📄 License
-
-MIT License
-
----
-
 ## ⭐ Support the Project
 
-If you found this project helpful, give it a ⭐ on GitHub!
-https://github.com/1rushikeshkale/MCAC11BlockchainProject
+
 ## 🙏 Contributing
 
 We welcome contributions to this project! If you'd like to contribute, please follow these steps:
@@ -240,13 +238,5 @@ We welcome contributions to this project! If you'd like to contribute, please fo
 5.  **Push your branch** to your forked repository: `git push origin feature/your-feature-name`.
 6.  **Open a Pull Request** against the `main` branch of this repository, describing your changes in detail.
 
----
-
-### 📬 Contact
-
-For queries or collaboration:
-
-* Email: 1rushikeshkale@gmail.com
-* LinkedIn: https://www.linkedin.com/in/1rushikeshkale/
 
 > *"Blockchain for Education — ensuring trust, transparency
