@@ -1,14 +1,3 @@
-# Blockchain Based Academic Certificate Verification System
-
-👨‍💻 Author: Rushikesh Kale  
-📌 Personal Learning Project  
-
-## Purpose
-This project explores the use of blockchain technology for secure academic certificate verification and credit transfer between institutions.
-
-GitHub: https://github.com/rushikeshkale-tech  
-linkedin: https://www.linkedin.com/in/rushikeshkale-tech
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Blockchain-Based Academic Certificate Verification & Credit Transfer System *(A Decentralized Academic Credential System using Blockchain)* 
 
